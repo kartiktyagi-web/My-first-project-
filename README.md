@@ -1,4 +1,4 @@
 # My-first-project-
 This is my first project.
 <br>
-Author: Kartik tyagi
+Author: Kartik tyagi (fighter)
